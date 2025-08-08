@@ -1,7 +1,7 @@
 # 🚀 Rahat Ali | Junior Java Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;Spring+%7C+Grails+%7C+Java+Enthusiast;Full-Stack+Developer;DevOps+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;Spring+%7C+Grails+%7C+Java+Enthusiast;Backend+Developer;DevOps+Aspirant" alt="Typing SVG" />
 </div>
 
 ---
