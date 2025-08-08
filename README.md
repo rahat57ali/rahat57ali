@@ -10,37 +10,45 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 💼 Tech Stack
 
-### <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="20"/> Programming Languages
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Groovy](https://img.shields.io/badge/groovy-%23468AFF.svg?style=for-the-badge&logo=apachegroovy&logoColor=white) |
-|----------|----------|----------|
+### 🧠 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groovy-468AFF?style=for-the-badge&logo=apachegroovy&logoColor=white" />
+</p>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20"/> Web Development
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) |
-|----------|----------|----------|----------|
+### 🌐 Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</p>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087840.png" width="20"/> Frameworks
-| ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) | ![Grails](https://img.shields.io/badge/grails-%2300C7B7.svg?style=for-the-badge&logo=grails&logoColor=white) |
-|----------|----------|
+### 🚀 Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grails-00C7B7?style=for-the-badge&logo=grails&logoColor=white" />
+</p>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="20"/> Databases
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
-|----------|----------|
+### 📡 APIs & Background Jobs
+<p>
+  <img src="https://img.shields.io/badge/SOAP%20API-007396?style=for-the-badge&logo=soap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quartz%20Job-334CFF?style=for-the-badge&logo=quartz&logoColor=white" />
+</p>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/3767/3767084.png" width="20"/> DevOps & Tools
-| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) |
-|----------|----------|----------|----------|
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</p>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2777/2777154.png" width="20"/> Hosting
-| ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
-|----------|----------|
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor
 
----
-
-## 💡 Developer Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&fontSize=16)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahat57ali&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
