@@ -1,9 +1,12 @@
 <h1 align="center">👋 Hi, I'm Rahat Ali</h1>
 
 <p align="center">
-  <b>Junior Software Developer</b> passionate about backend systems, clean architecture, and scalable APIs.
+  <b>Junior Java Developer</b> passionate about backend systems, clean architecture, and scalable APIs.
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;Spring+%7C+Grails+%7C+Java+Enthusiast;Backend+Developer;DevOps+Aspirant" alt="Typing SVG" />
+</div>
 
 ---
 
